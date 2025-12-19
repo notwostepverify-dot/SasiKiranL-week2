@@ -6,4 +6,5 @@ e = a - b
 print("Sum = ",c)
 print("Product: ",d)
 print("Subtraction: ",e)
-
+f = a / b
+print("Division: ",f)
