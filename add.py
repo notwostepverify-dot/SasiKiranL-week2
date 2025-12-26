@@ -7,4 +7,3 @@ print("Sum = ",c)
 print("Product: ",d)
 f = a / b
 print("Division: ",f)
-print("Difference: ",e)
