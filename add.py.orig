@@ -7,5 +7,8 @@ print("Sum = ",c)
 print("Product: ",d)
 f = a / b
 print("Division: ",f)
+<<<<<<< HEAD
 print("Difference: ",e)
-print("New branch")
+=======
+printf("New branch")
+>>>>>>> 45a2fb9 (New branch)
