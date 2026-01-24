@@ -8,3 +8,4 @@ print("Product: ",d)
 f = a / b
 print("Division: ",f)
 print("Difference: ",e)
+print("Remainder: ",a%b)
