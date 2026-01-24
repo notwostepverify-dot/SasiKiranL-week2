@@ -1,5 +1,5 @@
-a = int(input("Enter n1: "))
-b = int(input("Enter n2: "))
+a = 10
+b = 5
 c = a + b
 d = a * b
 e = a - b
